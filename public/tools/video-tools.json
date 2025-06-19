@@ -1,0 +1,122 @@
+[
+  {
+    "id": "synthesia",
+    "name": "Synthesia",
+    "category": "video",
+    "description": "AI video generation platform to create professional videos with AI avatars and voiceovers.",
+    "url": "https://www.synthesia.io/",
+    "emoji": "🎬",
+    "tags": ["video creation", "ai avatar", "presentation", "marketing video"],
+    "rating": 4.5,
+    "dateAdded": "2025-04-01",
+    "price": "Paid"
+  },
+  {
+    "id": "runwayml-gen2",
+    "name": "Runway Gen-2",
+    "category": "video",
+    "description": "Generate novel videos from text prompts or existing images. Text-to-video and image-to-video.",
+    "url": "https://runwayml.com/ai-magic-tools/gen-2/",
+    "emoji": "🏃‍♂️",
+    "tags": ["text-to-video", "video editing", "ai film"],
+    "rating": 4.6,
+    "dateAdded": "2025-03-25",
+    "price": "Freemium"
+  },
+  {
+    "id": "pictory-ai",
+    "name": "Pictory AI",
+    "category": "video",
+    "description": "AI video creation software that turns long-form content (scripts, articles) into short videos.",
+    "url": "https://pictory.ai/",
+    "emoji": "🎞️",
+    "tags": ["script-to-video", "content repurposing", "social media video"],
+    "rating": 4.4,
+    "dateAdded": "2025-02-10",
+    "price": "Paid"
+  },
+  {
+    "id": "invideo-ai",
+    "name": "InVideo AI",
+    "category": "video",
+    "description": "Online video editor with AI-powered tools for quick video creation from text or templates.",
+    "url": "https://invideo.io/ai/",
+    "emoji": "▶️",
+    "tags": ["video editor", "text-to-video", "templates"],
+    "rating": 4.3,
+    "dateAdded": "2025-01-10",
+    "price": "Freemium"
+  },
+  {
+    "id": "lumen5",
+    "name": "Lumen5",
+    "category": "video",
+    "description": "AI-powered video creation platform that transforms blog posts and articles into videos.",
+    "url": "https://lumen5.com/",
+    "emoji": "💡",
+    "tags": ["article-to-video", "marketing video", "content marketing"],
+    "rating": 4.2,
+    "dateAdded": "2025-04-25",
+    "price": "Paid"
+  },
+  {
+    "id": "heygen",
+    "name": "HeyGen",
+    "category": "video",
+    "description": "AI video platform for creating engaging videos with customizable avatars and voice cloning.",
+    "url": "https://www.heygen.com/",
+    "emoji": "🗣️",
+    "tags": ["ai avatar", "voice cloning", "personalized video"],
+    "rating": 4.5,
+    "dateAdded": "2025-05-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "veed-io",
+    "name": "VEED.IO",
+    "category": "video",
+    "description": "Online video editing suite with AI tools like auto-subtitling, transcription, and more.",
+    "url": "https://www.veed.io/",
+    "emoji": "✂️",
+    "tags": ["video editing", "subtitles", "transcription"],
+    "rating": 4.3,
+    "dateAdded": "2025-03-05",
+    "price": "Freemium"
+  },
+  {
+    "id": "elai-io",
+    "name": "Elai.io",
+    "category": "video",
+    "description": "Generate AI videos from just text. Create narrated videos with AI presenters.",
+    "url": "https://elai.io/",
+    "emoji": "👨‍🏫",
+    "tags": ["text-to-video", "ai presenter", "narration"],
+    "rating": 4.1,
+    "dateAdded": "2025-05-25",
+    "price": "Paid"
+  },
+  {
+    "id": "kaiber-ai",
+    "name": "Kaiber AI",
+    "category": "video",
+    "description": "AI video generation tool for creating artistic and animated videos from images or text.",
+    "url": "https://kaiber.ai/",
+    "emoji": "✨",
+    "tags": ["artistic video", "animation", "music video"],
+    "rating": 4.4,
+    "dateAdded": "2025-06-01",
+    "price": "Paid"
+  },
+  {
+    "id": "d-id",
+    "name": "D-ID",
+    "category": "video",
+    "description": "Platform to create videos with talking AI avatars from a single image and text.",
+    "url": "https://www.d-id.com/",
+    "emoji": "👤",
+    "tags": ["talking avatar", "photo animation", "ai presenter"],
+    "rating": 4.0,
+    "dateAdded": "2025-06-05",
+    "price": "Freemium"
+  }
+]

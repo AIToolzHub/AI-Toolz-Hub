@@ -1,0 +1,122 @@
+[
+  {
+    "id": "surfer-seo",
+    "name": "Surfer SEO",
+    "category": "seo",
+    "description": "Content intelligence tool that helps you write SEO-optimized content and rank higher.",
+    "url": "https://surferseo.com/",
+    "emoji": "🏄",
+    "tags": ["seo tool", "content optimization", "keyword research", "serp"],
+    "rating": 4.7,
+    "dateAdded": "2025-03-05",
+    "price": "Paid"
+  },
+  {
+    "id": "semrush",
+    "name": "Semrush",
+    "category": "seo",
+    "description": "All-in-one marketing toolkit for SEO, content marketing, competitor research, PPC and social media.",
+    "url": "https://www.semrush.com/",
+    "emoji": "📊",
+    "tags": ["seo platform", "keyword research", "competitor analysis", "site audit"],
+    "rating": 4.8,
+    "dateAdded": "2025-01-12",
+    "price": "Paid"
+  },
+  {
+    "id": "ahrefs",
+    "name": "Ahrefs",
+    "category": "seo",
+    "description": "Popular SEO toolset for keyword research, link building, site audits, and rank tracking.",
+    "url": "https://ahrefs.com/",
+    "emoji": "🔗",
+    "tags": ["link building", "keyword explorer", "site audit", "rank tracker"],
+    "rating": 4.7,
+    "dateAdded": "2025-02-12",
+    "price": "Paid"
+  },
+  {
+    "id": "neuronwriter",
+    "name": "NeuronWriter",
+    "category": "seo",
+    "description": "AI-powered content editor that helps you plan and write SEO-optimized content based on NLP.",
+    "url": "https://neuronwriter.com/",
+    "emoji": "🧠",
+    "tags": ["content editor", "nlp optimization", "seo writing"],
+    "rating": 4.5,
+    "dateAdded": "2025-04-18",
+    "price": "Paid"
+  },
+  {
+    "id": "scalenut",
+    "name": "Scalenut",
+    "category": "seo",
+    "description": "AI-powered SEO and content marketing platform for the entire content lifecycle.",
+    "url": "https://www.scalenut.com/",
+    "emoji": "🥜",
+    "tags": ["content lifecycle", "ai writer", "topic clusters"],
+    "rating": 4.4,
+    "dateAdded": "2025-03-28",
+    "price": "Paid"
+  },
+  {
+    "id": "keywordinsights-ai",
+    "name": "KeywordInsights.ai",
+    "category": "seo",
+    "description": "AI tool for discovering keyword clusters and generating content briefs automatically.",
+    "url": "https://keywordinsights.ai/",
+    "emoji": "🔑",
+    "tags": ["keyword clustering", "content brief generation", "serp analysis"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-28",
+    "price": "Paid"
+  },
+  {
+    "id": "alli-ai",
+    "name": "Alli AI",
+    "category": "seo",
+    "description": "AI-powered SEO automation platform for on-page optimization and code changes.",
+    "url": "https://alli.ai/",
+    "emoji": "🤖",
+    "tags": ["seo automation", "on-page optimization", "code deployment"],
+    "rating": 4.1,
+    "dateAdded": "2025-06-12",
+    "price": "Paid"
+  },
+  {
+    "id": "seobility",
+    "name": "Seobility",
+    "category": "seo",
+    "description": "All-in-one SEO software for website crawling, site auditing, rank tracking, and link building.",
+    "url": "https://www.seobility.net/",
+    "emoji": "🛠️",
+    "tags": ["website crawler", "seo audit", "rank tracking"],
+    "rating": 4.2,
+    "dateAdded": "2025-05-08",
+    "price": "Freemium"
+  },
+  {
+    "id": "ubersuggest",
+    "name": "Ubersuggest",
+    "category": "seo",
+    "description": "SEO tool by Neil Patel offering keyword research, site audits, and competitor analysis.",
+    "url": "https://neilpatel.com/ubersuggest/",
+    "emoji": "📈",
+    "tags": ["keyword tool", "neil patel", "competitor research"],
+    "rating": 4.0,
+    "dateAdded": "2025-04-03",
+    "price": "Freemium"
+  },
+  {
+    "id": "mangools",
+    "name": "Mangools",
+    "category": "seo",
+    "description": "Suite of SEO tools including KWFinder, SERPChecker, SERPWatcher, LinkMiner, and SiteProfiler.",
+    "url": "https://mangools.com/",
+    "emoji": "🥭",
+    "tags": ["seo suite", "kwfinder", "serp analysis"],
+    "rating": 4.6,
+    "dateAdded": "2025-02-22",
+    "price": "Paid"
+  }
+]

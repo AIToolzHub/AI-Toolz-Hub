@@ -1,0 +1,122 @@
+[
+  {
+    "id": "spline",
+    "name": "Spline",
+    "category": "3d",
+    "description": "Collaborative 3D design tool with AI capabilities for web-based 3D scenes.",
+    "url": "https://spline.design/",
+    "emoji": "🧊",
+    "tags": ["3d design", "web design", "animation", "interactive"],
+    "rating": 4.5,
+    "dateAdded": "2025-06-01",
+    "price": "Freemium"
+  },
+  {
+    "id": "lumalabs-ai",
+    "name": "Luma AI",
+    "category": "3d",
+    "description": "Generate realistic 3D models and scenes from text or video using NeRF technology.",
+    "url": "https://lumalabs.ai/",
+    "emoji": "💡",
+    "tags": ["nerf", "3d capture", "text-to-3d", "photogrammetry"],
+    "rating": 4.6,
+    "dateAdded": "2025-03-21",
+    "price": "Freemium"
+  },
+  {
+    "id": "masterpiece-studio",
+    "name": "Masterpiece Studio",
+    "category": "3d",
+    "description": "Suite of VR and AI tools for 3D content creation, from sculpting to texturing.",
+    "url": "https://masterpiecestudio.com/",
+    "emoji": "🗿",
+    "tags": ["vr creation", "3d sculpting", "texturing", "game dev"],
+    "rating": 4.4,
+    "dateAdded": "2025-04-29",
+    "price": "Paid"
+  },
+  {
+    "id": "kaedim",
+    "name": "Kaedim",
+    "category": "3d",
+    "description": "AI-powered platform that transforms 2D images into 3D models automatically.",
+    "url": "https://www.kaedim3d.com/",
+    "emoji": "✨",
+    "tags": ["image-to-3d", "3d modeling automation", "game assets"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-16",
+    "price": "Paid"
+  },
+  {
+    "id": "scenario-gg",
+    "name": "Scenario.gg",
+    "category": "3d",
+    "description": "Generate high-quality, style-consistent game assets using AI.",
+    "url": "https://www.scenario.gg/",
+    "emoji": "🎮",
+    "tags": ["game assets", "ai art generation", "texture generation"],
+    "rating": 4.2,
+    "dateAdded": "2025-02-27",
+    "price": "Freemium"
+  },
+  {
+    "id": "meshy-ai",
+    "name": "Meshy AI",
+    "category": "3d",
+    "description": "AI tools for 3D content creation, including text-to-3D and image-to-3D.",
+    "url": "https://www.meshy.ai/",
+    "emoji": "🕸️",
+    "tags": ["text-to-3d", "image-to-3d", "3d generation"],
+    "rating": 4.1,
+    "dateAdded": "2025-06-13",
+    "price": "Freemium"
+  },
+  {
+    "id": "blender",
+    "name": "Blender (with AI addons)",
+    "category": "3d",
+    "description": "Free and open-source 3D creation suite, extensible with various AI-powered addons.",
+    "url": "https://www.blender.org/",
+    "emoji": "🌀",
+    "tags": ["open source", "3d modeling", "animation", "vfx"],
+    "rating": 4.8,
+    "dateAdded": "2025-01-01",
+    "price": "Free"
+  },
+  {
+    "id": "polycam",
+    "name": "Polycam",
+    "category": "3d",
+    "description": "3D scanning app using LiDAR and photogrammetry, with AI features for model cleanup.",
+    "url": "https://poly.cam/",
+    "emoji": "📸",
+    "tags": ["3d scanning", "photogrammetry", "lidar", "mobile 3d"],
+    "rating": 4.5,
+    "dateAdded": "2025-03-07",
+    "price": "Freemium"
+  },
+  {
+    "id": "texturelab",
+    "name": "TextureLab",
+    "category": "3d",
+    "description": "Free, node-based tool for procedural texture generation, can be AI-assisted.",
+    "url": "https://texturelab.xyz/",
+    "emoji": "🧱",
+    "tags": ["texture generation", "procedural art", "pbr materials"],
+    "rating": 4.0,
+    "dateAdded": "2025-05-07",
+    "price": "Free"
+  },
+  {
+    "id": "withpoly",
+    "name": "Poly by WithPoly",
+    "category": "3d",
+    "description": "Generate PBR textures with AI from text prompts or images.",
+    "url": "https://withpoly.com/textures",
+    "emoji": "🎨",
+    "tags": ["pbr textures", "text-to-texture", "ai materials"],
+    "rating": 4.2,
+    "dateAdded": "2025-04-07",
+    "price": "Freemium"
+  }
+]

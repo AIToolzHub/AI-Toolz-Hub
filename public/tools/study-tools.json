@@ -1,0 +1,122 @@
+[
+  {
+    "id": "quizlet-ai",
+    "name": "Quizlet AI",
+    "category": "study",
+    "description": "AI-powered study tools, flashcards, practice tests, and expert solutions.",
+    "url": "https://quizlet.com/features/ai",
+    "emoji": "📚",
+    "tags": ["flashcards", "study help", "test prep", "homework"],
+    "rating": 4.7,
+    "dateAdded": "2025-06-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "grammarly-student",
+    "name": "Grammarly for Students",
+    "category": "study",
+    "description": "Enhance essays and assignments with AI-powered grammar, spelling, and style checks.",
+    "url": "https://www.grammarly.com/students",
+    "emoji": "✍️",
+    "tags": ["essay writing", "grammar", "proofreading", "writing help"],
+    "rating": 4.8,
+    "dateAdded": "2025-06-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "wolframalpha-student",
+    "name": "Wolfram Alpha",
+    "category": "study",
+    "description": "Computational knowledge engine for math, science, and STEM problem-solving.",
+    "url": "https://www.wolframalpha.com/",
+    "emoji": "🧮",
+    "tags": ["math help", "science help", "stem", "homework solver"],
+    "rating": 4.9,
+    "dateAdded": "2025-06-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "khanmigo",
+    "name": "Khanmigo by Khan Academy",
+    "category": "study",
+    "description": "AI tutor and learning assistant for students and teachers.",
+    "url": "https://www.khanacademy.org/khan-labs",
+    "emoji": "🧑‍🏫",
+    "tags": ["ai tutor", "homework help", "math", "science", "personalized learning"],
+    "rating": 4.6,
+    "dateAdded": "2025-06-15",
+    "price": "Paid (Donation-based)"
+  },
+  {
+    "id": "socratic-by-google",
+    "name": "Socratic by Google",
+    "category": "study",
+    "description": "AI-powered app to help high school and college students understand school work.",
+    "url": "https://socratic.org/",
+    "emoji": "🦉",
+    "tags": ["homework help", "math solver", "science explanations", "visual learning"],
+    "rating": 4.5,
+    "dateAdded": "2025-06-15",
+    "price": "Free"
+  },
+  {
+    "id": "studymonkey-ai",
+    "name": "StudyMonkey AI",
+    "category": "study",
+    "description": "AI tutor that helps with homework, essay writing, and test preparation.",
+    "url": "https://www.studymonkey.ai/",
+    "emoji": "🐒",
+    "tags": ["ai tutor", "homework", "essay help", "test prep"],
+    "rating": 4.3,
+    "dateAdded": "2025-06-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "gamma-app-student",
+    "name": "Gamma App",
+    "category": "study",
+    "description": "Create polished presentations, documents, and webpages quickly with AI.",
+    "url": "https://gamma.app/",
+    "emoji": "📊",
+    "tags": ["presentations", "slides", "note taking", "project work"],
+    "rating": 4.4,
+    "dateAdded": "2025-06-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "elicit-student",
+    "name": "Elicit for Research",
+    "category": "study",
+    "description": "AI research assistant to find papers, extract data, and synthesize information.",
+    "url": "https://elicit.org/",
+    "emoji": "🔎",
+    "tags": ["research", "literature review", "paper summarization", "essay research"],
+    "rating": 4.5,
+    "dateAdded": "2025-06-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "caktus-ai",
+    "name": "Caktus AI",
+    "category": "study",
+    "description": "AI toolkit for students: essay writing, coding help, discussion questions, and more.",
+    "url": "https://www.caktus.ai/",
+    "emoji": "🌵",
+    "tags": ["essay writer", "coding help", "study notes", "homework assistant"],
+    "rating": 4.2,
+    "dateAdded": "2025-06-15",
+    "price": "Paid"
+  },
+  {
+    "id": "gradescope",
+    "name": "Gradescope",
+    "category": "study",
+    "description": "Platform for submitting and grading assignments, often used with AI-assisted grading features.",
+    "url": "https://www.gradescope.com/",
+    "emoji": "✔️",
+    "tags": ["assignments", "grading", "feedback", "stem courses"],
+    "rating": 4.1,
+    "dateAdded": "2025-06-15",
+    "price": "Varies (Institutional)"
+  }
+]

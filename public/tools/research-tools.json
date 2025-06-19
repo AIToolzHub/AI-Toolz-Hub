@@ -1,0 +1,122 @@
+[
+  {
+    "id": "perplexity-ai-research",
+    "name": "Perplexity AI",
+    "category": "research",
+    "description": "AI-powered search engine providing direct answers with cited sources for research.",
+    "url": "https://www.perplexity.ai/",
+    "emoji": "🧐",
+    "tags": ["search engine", "research tool", "information retrieval", "answer engine"],
+    "rating": 4.7,
+    "dateAdded": "2025-02-10",
+    "price": "Freemium"
+  },
+  {
+    "id": "consensus-app",
+    "name": "Consensus",
+    "category": "research",
+    "description": "AI search engine for scientific research, extracting findings directly from papers.",
+    "url": "https://consensus.app/",
+    "emoji": "🔬",
+    "tags": ["scientific research", "evidence-based", "paper analysis"],
+    "rating": 4.6,
+    "dateAdded": "2025-03-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "elicit-org",
+    "name": "Elicit",
+    "category": "research",
+    "description": "AI research assistant that helps automate research workflows, like literature reviews.",
+    "url": "https://elicit.org/",
+    "emoji": "📄",
+    "tags": ["research automation", "literature review", "paper summarization"],
+    "rating": 4.5,
+    "dateAdded": "2025-04-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "scite-ai",
+    "name": "Scite.ai",
+    "category": "research",
+    "description": "Platform that helps researchers discover and evaluate scientific articles via Smart Citations.",
+    "url": "https://scite.ai/",
+    "emoji": "📊",
+    "tags": ["citation analysis", "research discovery", "scientific literature"],
+    "rating": 4.4,
+    "dateAdded": "2025-01-26",
+    "price": "Freemium"
+  },
+  {
+    "id": "semantic-scholar",
+    "name": "Semantic Scholar",
+    "category": "research",
+    "description": "AI-powered research tool for scientific literature, providing summaries and connections.",
+    "url": "https://www.semanticscholar.org/",
+    "emoji": "🎓",
+    "tags": ["academic search", "paper discovery", "ai research"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-11",
+    "price": "Free"
+  },
+  {
+    "id": "researchrabbit",
+    "name": "ResearchRabbit",
+    "category": "research",
+    "description": "Tool for discovering and visualizing research papers and authors.",
+    "url": "https://www.researchrabbit.ai/",
+    "emoji": "🐇",
+    "tags": ["literature mapping", "paper discovery", "visualization"],
+    "rating": 4.2,
+    "dateAdded": "2025-03-03",
+    "price": "Free"
+  },
+  {
+    "id": "iris-ai",
+    "name": "Iris.ai",
+    "category": "research",
+    "description": "AI engine for scientific text understanding, offering tools for researchers and businesses.",
+    "url": "https://iris.ai/",
+    "emoji": "👁️",
+    "tags": ["r&d tools", "scientific text analysis", "knowledge mapping"],
+    "rating": 4.1,
+    "dateAdded": "2025-05-30",
+    "price": "Paid"
+  },
+  {
+    "id": "genei-io",
+    "name": "genei",
+    "category": "research",
+    "description": "AI-powered research and note-taking tool for faster reading and summarization.",
+    "url": "https://www.genei.io/",
+    "emoji": "🧞",
+    "tags": ["summarization", "note-taking", "faster reading"],
+    "rating": 4.0,
+    "dateAdded": "2025-06-11",
+    "price": "Paid"
+  },
+  {
+    "id": "explainpaper",
+    "name": "Explainpaper",
+    "category": "research",
+    "description": "Upload a research paper and get explanations of confusing text using AI.",
+    "url": "https://www.explainpaper.com/",
+    "emoji": "📰",
+    "tags": ["paper explanation", "research comprehension", "ai tutor"],
+    "rating": 4.3,
+    "dateAdded": "2025-04-24",
+    "price": "Freemium"
+  },
+  {
+    "id": "typeset-io",
+    "name": "Typeset.io (SciSpace)",
+    "category": "research",
+    "description": "Platform for researchers to write, collaborate, and discover scientific papers, with AI Co-pilot.",
+    "url": "https://typeset.io/",
+    "emoji": "✍️",
+    "tags": ["research writing", "collaboration", "ai co-pilot"],
+    "rating": 4.2,
+    "dateAdded": "2025-02-24",
+    "price": "Freemium"
+  }
+]

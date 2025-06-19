@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "category": "chat",
+    "description": "Advanced conversational AI by OpenAI for various tasks, from drafting emails to writing code.",
+    "url": "https://chat.openai.com/",
+    "emoji": "💬",
+    "tags": ["chatbot", "text generation", "openai", "writing assistant"],
+    "rating": 4.9,
+    "dateAdded": "2025-01-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "claude-ai",
+    "name": "Claude",
+    "category": "chat",
+    "description": "A next-generation AI assistant focused on helpfulness, harmlessness, and honesty.",
+    "url": "https://claude.ai/",
+    "emoji": "🤝",
+    "tags": ["chatbot", "anthropic", "conversational ai"],
+    "rating": 4.7,
+    "dateAdded": "2025-02-01",
+    "price": "Freemium"
+  },
+  {
+    "id": "google-gemini",
+    "name": "Google Gemini",
+    "category": "chat",
+    "description": "Google's most capable and general AI model, powering various Google products.",
+    "url": "https://gemini.google.com/",
+    "emoji": "✨",
+    "tags": ["chatbot", "google ai", "multimodal"],
+    "rating": 4.8,
+    "dateAdded": "2025-03-10",
+    "price": "Freemium"
+  },
+  {
+    "id": "perplexity-ai-chat",
+    "name": "Perplexity AI Chat",
+    "category": "chat",
+    "description": "Conversational search engine that provides answers with citations and sources.",
+    "url": "https://www.perplexity.ai/",
+    "emoji": "❓",
+    "tags": ["search", "research", "answer engine"],
+    "rating": 4.6,
+    "dateAdded": "2025-01-20",
+    "price": "Freemium"
+  },
+  {
+    "id": "character-ai",
+    "name": "Character.AI",
+    "category": "chat",
+    "description": "Create and talk to AI-powered characters with distinct personalities.",
+    "url": "https://character.ai/",
+    "emoji": "🎭",
+    "tags": ["roleplay", "entertainment", "chatbot platform"],
+    "rating": 4.5,
+    "dateAdded": "2025-04-05",
+    "price": "Free"
+  },
+  {
+    "id": "poe-fast-ai-chat",
+    "name": "Poe by Quora",
+    "category": "chat",
+    "description": "Platform to access various AI chatbots like ChatGPT, Claude, and more in one place.",
+    "url": "https://poe.com/",
+    "emoji": "📚",
+    "tags": ["chatbot aggregator", "multi-model", "quora"],
+    "rating": 4.4,
+    "dateAdded": "2025-03-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "huggingchat",
+    "name": "HuggingChat",
+    "category": "chat",
+    "description": "Open-source alternative to ChatGPT, powered by models from Hugging Face.",
+    "url": "https://huggingface.co/chat/",
+    "emoji": "🤗",
+    "tags": ["open source", "hugging face", "community"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-01",
+    "price": "Free"
+  },
+  {
+    "id": "writesonic-chat",
+    "name": "Writesonic Chatsonic",
+    "category": "chat",
+    "description": "AI chat assistant focused on content creation and up-to-date information.",
+    "url": "https://writesonic.com/chatsonic",
+    "emoji": "📝",
+    "tags": ["writing", "content generation", "factual"],
+    "rating": 4.5,
+    "dateAdded": "2025-02-25",
+    "price": "Freemium"
+  },
+  {
+    "id": "youcom-chat",
+    "name": "YouChat by You.com",
+    "category": "chat",
+    "description": "AI chat integrated with a private search engine for comprehensive answers.",
+    "url": "https://you.com/",
+    "emoji": "🛡️",
+    "tags": ["search", "privacy", "ai assistant"],
+    "rating": 4.2,
+    "dateAdded": "2025-04-20",
+    "price": "Free"
+  },
+  {
+    "id": "pi-personal-ai",
+    "name": "Pi, your personal AI",
+    "category": "chat",
+    "description": "A supportive and empathetic AI designed for personal conversations and well-being.",
+    "url": "https://pi.ai/",
+    "emoji": "🧘",
+    "tags": ["personal assistant", "empathetic ai", "wellness"],
+    "rating": 4.6,
+    "dateAdded": "2025-05-10",
+    "price": "Free"
+  }
+]

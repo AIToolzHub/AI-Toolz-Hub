@@ -1,0 +1,122 @@
+[
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "category": "productivity",
+    "description": "AI features integrated into Notion for summarizing, writing, brainstorming, and organizing.",
+    "url": "https://www.notion.so/product/ai",
+    "emoji": "📝",
+    "tags": ["productivity", "note taking", "ai assistant", "workspace"],
+    "rating": 4.6,
+    "dateAdded": "2025-04-15",
+    "price": "Add-on"
+  },
+  {
+    "id": "mem-ai",
+    "name": "Mem X",
+    "category": "productivity",
+    "description": "Self-organizing workspace that uses AI to help you capture, connect, and find information.",
+    "url": "https://mem.ai/",
+    "emoji": "🧠",
+    "tags": ["knowledge management", "smart notes", "personal crm"],
+    "rating": 4.5,
+    "dateAdded": "2025-03-08",
+    "price": "Freemium"
+  },
+  {
+    "id": "tome-app",
+    "name": "Tome",
+    "category": "productivity",
+    "description": "AI-powered storytelling and presentation creation tool for compelling narratives.",
+    "url": "https://tome.app/",
+    "emoji": "📖",
+    "tags": ["presentation tool", "storytelling", "ai slides"],
+    "rating": 4.4,
+    "dateAdded": "2025-02-25",
+    "price": "Freemium"
+  },
+  {
+    "id": "motion-app",
+    "name": "Motion",
+    "category": "productivity",
+    "description": "AI-powered calendar and project management tool to optimize your time and tasks.",
+    "url": "https://www.usemotion.com/",
+    "emoji": "📅",
+    "tags": ["calendar app", "task management", "time blocking"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-03",
+    "price": "Paid"
+  },
+  {
+    "id": "sunsama",
+    "name": "Sunsama",
+    "category": "productivity",
+    "description": "Daily planner app that combines tasks, calendar, and email to help you focus.",
+    "url": "https://sunsama.com/",
+    "emoji": "☀️",
+    "tags": ["daily planner", "task manager", "focus tool"],
+    "rating": 4.2,
+    "dateAdded": "2025-01-28",
+    "price": "Paid"
+  },
+  {
+    "id": "otter-ai",
+    "name": "Otter.ai",
+    "category": "productivity",
+    "description": "AI meeting assistant that records audio, transcribes, and generates summaries.",
+    "url": "https://otter.ai/",
+    "emoji": "🦦",
+    "tags": ["meeting transcription", "ai notes", "voice notes"],
+    "rating": 4.5,
+    "dateAdded": "2025-03-26",
+    "price": "Freemium"
+  },
+  {
+    "id": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "category": "productivity",
+    "description": "AI meeting assistant that transcribes, summarizes, and analyzes voice conversations.",
+    "url": "https://fireflies.ai/",
+    "emoji": "🔥",
+    "tags": ["meeting notes", "transcription service", "conversation intelligence"],
+    "rating": 4.4,
+    "dateAdded": "2025-04-12",
+    "price": "Freemium"
+  },
+  {
+    "id": "beautiful-ai",
+    "name": "Beautiful.ai",
+    "category": "productivity",
+    "description": "AI presentation software that designs slides for you, ensuring consistency and beauty.",
+    "url": "https://www.beautiful.ai/",
+    "emoji": "✨",
+    "tags": ["presentation maker", "ai design", "slide templates"],
+    "rating": 4.3,
+    "dateAdded": "2025-02-11",
+    "price": "Paid"
+  },
+  {
+    "id": "taskade",
+    "name": "Taskade",
+    "category": "productivity",
+    "description": "AI-powered collaborative workspace for outlining, note-taking, and task management.",
+    "url": "https://www.taskade.com/",
+    "emoji": "✅",
+    "tags": ["collaboration tool", "project management", "ai outliner"],
+    "rating": 4.2,
+    "dateAdded": "2025-05-26",
+    "price": "Freemium"
+  },
+  {
+    "id": "reflect-notes",
+    "name": "Reflect Notes",
+    "category": "productivity",
+    "description": "Networked note-taking app with AI features for connecting thoughts and ideas.",
+    "url": "https://reflect.app/",
+    "emoji": "💡",
+    "tags": ["note taking", "pkm", "ai assistant"],
+    "rating": 4.1,
+    "dateAdded": "2025-06-09",
+    "price": "Paid"
+  }
+]

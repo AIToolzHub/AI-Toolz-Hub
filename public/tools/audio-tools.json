@@ -1,0 +1,122 @@
+[
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "audio",
+    "description": "AI-powered text-to-speech (TTS) and voice cloning for creating natural-sounding audio content.",
+    "url": "https://elevenlabs.io/",
+    "emoji": "🎤",
+    "tags": ["text to speech", "voice cloning", "audio generation", "voiceover"],
+    "rating": 4.8,
+    "dateAdded": "2025-05-10",
+    "price": "Freemium"
+  },
+  {
+    "id": "descript",
+    "name": "Descript",
+    "category": "audio",
+    "description": "All-in-one audio and video editor with AI features like transcription, overdub, and studio sound.",
+    "url": "https://www.descript.com/",
+    "emoji": "🎧",
+    "tags": ["audio editing", "podcast editing", "transcription", "overdub"],
+    "rating": 4.7,
+    "dateAdded": "2025-02-18",
+    "price": "Freemium"
+  },
+  {
+    "id": "murf-ai",
+    "name": "Murf AI",
+    "category": "audio",
+    "description": "AI voice generator for creating realistic text-to-speech voiceovers for videos and presentations.",
+    "url": "https://murf.ai/",
+    "emoji": "🗣️",
+    "tags": ["voice generator", "tts", "voiceover artist"],
+    "rating": 4.5,
+    "dateAdded": "2025-03-11",
+    "price": "Freemium"
+  },
+  {
+    "id": "play-ht",
+    "name": "Play.ht",
+    "category": "audio",
+    "description": "AI text-to-voice generator with a wide range of realistic AI voices and languages.",
+    "url": "https://play.ht/",
+    "emoji": "▶️",
+    "tags": ["ai voices", "tts online", "speech synthesis"],
+    "rating": 4.4,
+    "dateAdded": "2025-04-11",
+    "price": "Paid"
+  },
+  {
+    "id": "adobe-podcast",
+    "name": "Adobe Podcast",
+    "category": "audio",
+    "description": "AI-powered audio recording and editing tool, featuring speech enhancement (Enhance Speech).",
+    "url": "https://podcast.adobe.com/",
+    "emoji": "🎙️",
+    "tags": ["audio enhancement", "podcast recording", "noise reduction"],
+    "rating": 4.6,
+    "dateAdded": "2025-01-22",
+    "price": "Free (Beta)"
+  },
+  {
+    "id": "auphonic",
+    "name": "Auphonic",
+    "category": "audio",
+    "description": "Automatic audio post-production web service for podcasts, broadcasts, and more.",
+    "url": "https://auphonic.com/",
+    "emoji": "🔊",
+    "tags": ["audio post-production", "leveling", "noise reduction"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-02",
+    "price": "Freemium"
+  },
+  {
+    "id": "aiva",
+    "name": "AIVA",
+    "category": "audio",
+    "description": "AI music composer that creates original music in various genres and styles.",
+    "url": "https://www.aiva.ai/",
+    "emoji": "🎶",
+    "tags": ["ai music generation", "soundtrack", "royalty-free music"],
+    "rating": 4.2,
+    "dateAdded": "2025-03-30",
+    "price": "Freemium"
+  },
+  {
+    "id": "soundraw",
+    "name": "SOUNDRAW",
+    "category": "audio",
+    "description": "AI music generator that allows you to customize and create unique royalty-free music.",
+    "url": "https://soundraw.io/",
+    "emoji": "🎵",
+    "tags": ["custom music", "ai composer", "background music"],
+    "rating": 4.1,
+    "dateAdded": "2025-04-26",
+    "price": "Freemium"
+  },
+  {
+    "id": "boomy",
+    "name": "Boomy",
+    "category": "audio",
+    "description": "Create original songs with AI in seconds and share them on streaming platforms.",
+    "url": "https://boomy.com/",
+    "emoji": "💥",
+    "tags": ["song creation", "ai music", "streaming distribution"],
+    "rating": 4.0,
+    "dateAdded": "2025-06-07",
+    "price": "Freemium"
+  },
+  {
+    "id": "krisp-ai",
+    "name": "Krisp.ai",
+    "category": "audio",
+    "description": "AI-powered noise cancelling app that removes background noise during calls.",
+    "url": "https://krisp.ai/",
+    "emoji": "🤫",
+    "tags": ["noise cancellation", "call clarity", "remote work"],
+    "rating": 4.5,
+    "dateAdded": "2025-02-02",
+    "price": "Freemium"
+  }
+]

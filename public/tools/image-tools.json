@@ -1,0 +1,122 @@
+[
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "category": "image",
+    "description": "AI image generator that creates stunning visuals from textual descriptions via Discord.",
+    "url": "https://www.midjourney.com/",
+    "emoji": "🎨",
+    "tags": ["image generation", "art", "design", "creative"],
+    "rating": 4.8,
+    "dateAdded": "2025-02-20",
+    "price": "Paid"
+  },
+  {
+    "id": "dall-e-3",
+    "name": "DALL·E 3",
+    "category": "image",
+    "description": "OpenAI's advanced image generation model, creating highly detailed and contextual images.",
+    "url": "https://openai.com/dall-e-3",
+    "emoji": "🖼️",
+    "tags": ["image generation", "openai", "art", "photorealistic"],
+    "rating": 4.7,
+    "dateAdded": "2025-01-25",
+    "price": "Paid (via ChatGPT Plus / API)"
+  },
+  {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "category": "image",
+    "description": "Powerful open-source text-to-image model, highly customizable and versatile.",
+    "url": "https://stablediffusion.com/",
+    "emoji": "🌌",
+    "tags": ["image generation", "open source", "art", "customizable"],
+    "rating": 4.6,
+    "dateAdded": "2025-03-01",
+    "price": "Free (Open Source)"
+  },
+  {
+    "id": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "category": "image",
+    "description": "Adobe's family of creative generative AI models, integrated into Adobe Creative Cloud.",
+    "url": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+    "emoji": "🔥",
+    "tags": ["image generation", "adobe", "design tool", "ethical ai"],
+    "rating": 4.5,
+    "dateAdded": "2025-04-10",
+    "price": "Freemium (in Adobe apps)"
+  },
+  {
+    "id": "leonardo-ai",
+    "name": "Leonardo.Ai",
+    "category": "image",
+    "description": "Platform for creating high-quality game assets and artistic images with AI.",
+    "url": "https://leonardo.ai/",
+    "emoji": "🦁",
+    "tags": ["game assets", "art generation", "image editing"],
+    "rating": 4.7,
+    "dateAdded": "2025-02-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "playground-ai",
+    "name": "Playground AI",
+    "category": "image",
+    "description": "Online AI image creator and editor with a social community aspect.",
+    "url": "https://playgroundai.com/",
+    "emoji": "🎠",
+    "tags": ["image editor", "social creation", "free image generator"],
+    "rating": 4.4,
+    "dateAdded": "2025-03-20",
+    "price": "Freemium"
+  },
+  {
+    "id": "canva-ai-image",
+    "name": "Canva AI Image Generator",
+    "category": "image",
+    "description": "Generate images directly within the Canva design platform using text prompts.",
+    "url": "https://www.canva.com/ai-image-generator/",
+    "emoji": "🖌️",
+    "tags": ["design tool", "canva", "ease of use"],
+    "rating": 4.3,
+    "dateAdded": "2025-05-05",
+    "price": "Freemium (in Canva)"
+  },
+  {
+    "id": "bing-image-creator",
+    "name": "Bing Image Creator",
+    "category": "image",
+    "description": "Microsoft's image generator powered by DALL·E models, accessible via Bing.",
+    "url": "https://www.bing.com/images/create",
+    "emoji": "💡",
+    "tags": ["microsoft", "dall-e", "free image generator"],
+    "rating": 4.2,
+    "dateAdded": "2025-01-30",
+    "price": "Free"
+  },
+  {
+    "id": "artbreeder",
+    "name": "Artbreeder",
+    "category": "image",
+    "description": "Create and combine images using AI, known for portraits and character generation.",
+    "url": "https://www.artbreeder.com/",
+    "emoji": "🧬",
+    "tags": ["image mixing", "character design", "portraits"],
+    "rating": 4.5,
+    "dateAdded": "2025-04-15",
+    "price": "Freemium"
+  },
+  {
+    "id": "deepdreamgenerator",
+    "name": "Deep Dream Generator",
+    "category": "image",
+    "description": "Platform for creating artistic images using various AI styles and techniques.",
+    "url": "https://deepdreamgenerator.com/",
+    "emoji": "👁️‍🗨️",
+    "tags": ["artistic effects", "style transfer", "neural art"],
+    "rating": 4.1,
+    "dateAdded": "2025-05-20",
+    "price": "Freemium"
+  }
+]

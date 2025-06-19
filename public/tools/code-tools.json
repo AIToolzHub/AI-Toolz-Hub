@@ -1,0 +1,122 @@
+[
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "category": "code",
+    "description": "AI pair programmer that suggests code and entire functions in real-time, right from your editor.",
+    "url": "https://copilot.github.com/",
+    "emoji": "🤖",
+    "tags": ["coding assistant", "developer tool", "ai programming", "vscode"],
+    "rating": 4.7,
+    "dateAdded": "2025-03-10",
+    "price": "Paid"
+  },
+  {
+    "id": "amazon-codewhisperer",
+    "name": "Amazon CodeWhisperer",
+    "category": "code",
+    "description": "AI coding companion from AWS that generates code suggestions in your IDE.",
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "emoji": "💡",
+    "tags": ["aws", "ide plugin", "code generation"],
+    "rating": 4.5,
+    "dateAdded": "2025-02-05",
+    "price": "Free for Individuals"
+  },
+  {
+    "id": "tabnine",
+    "name": "Tabnine",
+    "category": "code",
+    "description": "AI code completion assistant that supports multiple languages and IDEs.",
+    "url": "https://www.tabnine.com/",
+    "emoji": " تکمیل ",
+    "tags": ["code completion", "developer productivity", "ide integration"],
+    "rating": 4.4,
+    "dateAdded": "2025-01-18",
+    "price": "Freemium"
+  },
+  {
+    "id": "replit-ghostwriter",
+    "name": "Replit Ghostwriter",
+    "category": "code",
+    "description": "AI coding assistant integrated into the Replit online IDE for code generation and debugging.",
+    "url": "https://replit.com/ghostwriter",
+    "emoji": "👻",
+    "tags": ["online ide", "code generation", "debugging"],
+    "rating": 4.3,
+    "dateAdded": "2025-04-08",
+    "price": "Paid (part of Replit Core)"
+  },
+  {
+    "id": "cursor-ai-editor",
+    "name": "Cursor",
+    "category": "code",
+    "description": "An AI-first code editor designed for pair-programming with artificial intelligence.",
+    "url": "https://cursor.sh/",
+    "emoji": "🖱️",
+    "tags": ["code editor", "ai native", "refactoring"],
+    "rating": 4.6,
+    "dateAdded": "2025-05-12",
+    "price": "Freemium"
+  },
+  {
+    "id": "codeium",
+    "name": "Codeium",
+    "category": "code",
+    "description": "Free AI code completion and search tool, supporting many languages and IDEs.",
+    "url": "https://codeium.com/",
+    "emoji": "💎",
+    "tags": ["free code completion", "ai search", "developer tool"],
+    "rating": 4.5,
+    "dateAdded": "2025-03-18",
+    "price": "Free for Individuals"
+  },
+  {
+    "id": "mutable-ai",
+    "name": "MutableAI",
+    "category": "code",
+    "description": "AI-powered software development tools for accelerating coding tasks.",
+    "url": "https://mutable.ai/",
+    "emoji": "🧬",
+    "tags": ["code refactoring", "test generation", "documentation"],
+    "rating": 4.2,
+    "dateAdded": "2025-06-03",
+    "price": "Freemium"
+  },
+  {
+    "id": "askcodi",
+    "name": "AskCodi",
+    "category": "code",
+    "description": "AI coding assistant with features like code generation, explanation, and optimization.",
+    "url": "https://www.askcodi.com/",
+    "emoji": "❓",
+    "tags": ["vscode extension", "jetbrain plugin", "code explanation"],
+    "rating": 4.1,
+    "dateAdded": "2025-05-22",
+    "price": "Freemium"
+  },
+  {
+    "id": "bito-ai",
+    "name": "Bito AI",
+    "category": "code",
+    "description": "AI assistant that helps developers generate code, understand code, write test cases, and more.",
+    "url": "https://bito.ai/",
+    "emoji": "ビット",
+    "tags": ["developer productivity", "ide plugin", "test case generation"],
+    "rating": 4.3,
+    "dateAdded": "2025-04-28",
+    "price": "Freemium"
+  },
+  {
+    "id": "codiga",
+    "name": "Codiga",
+    "category": "code",
+    "description": "Static code analysis and automated code review tool powered by AI.",
+    "url": "https://www.codiga.io/",
+    "emoji": "📊",
+    "tags": ["code quality", "static analysis", "code review automation"],
+    "rating": 4.0,
+    "dateAdded": "2025-06-10",
+    "price": "Freemium"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "jasper",
+    "name": "Jasper",
+    "category": "writing",
+    "description": "AI writing assistant for creating high-quality marketing copy, blog posts, and more, 10x faster.",
+    "url": "https://www.jasper.ai/",
+    "emoji": "🖋️",
+    "tags": ["content creation", "copywriting", "marketing", "seo"],
+    "rating": 4.6,
+    "dateAdded": "2025-01-25",
+    "price": "Paid"
+  },
+  {
+    "id": "copy-ai",
+    "name": "Copy.ai",
+    "category": "writing",
+    "description": "AI-powered copywriter that generates marketing copy and content for businesses.",
+    "url": "https://www.copy.ai/",
+    "emoji": "©️",
+    "tags": ["copywriting", "marketing content", "sales copy"],
+    "rating": 4.5,
+    "dateAdded": "2025-02-08",
+    "price": "Freemium"
+  },
+  {
+    "id": "rytr",
+    "name": "Rytr",
+    "category": "writing",
+    "description": "Affordable AI writing assistant for creating various types of content quickly.",
+    "url": "https://rytr.me/",
+    "emoji": "📜",
+    "tags": ["content generator", "blog writing", "social media posts"],
+    "rating": 4.3,
+    "dateAdded": "2025-03-12",
+    "price": "Freemium"
+  },
+  {
+    "id": "writesonic",
+    "name": "Writesonic",
+    "category": "writing",
+    "description": "AI writing tool for creating SEO-friendly articles, ads, emails, and website copy.",
+    "url": "https://writesonic.com/",
+    "emoji": "✍️",
+    "tags": ["seo content", "article writer", "ad copy"],
+    "rating": 4.4,
+    "dateAdded": "2025-01-20",
+    "price": "Freemium"
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "category": "writing",
+    "description": "AI-powered writing assistant for checking grammar, spelling, punctuation, and style.",
+    "url": "https://www.grammarly.com/",
+    "emoji": "✅",
+    "tags": ["grammar checker", "proofreading", "writing enhancement"],
+    "rating": 4.8,
+    "dateAdded": "2025-04-02",
+    "price": "Freemium"
+  },
+  {
+    "id": "quillbot",
+    "name": "QuillBot",
+    "category": "writing",
+    "description": "AI paraphrasing tool, grammar checker, and summarizer to improve your writing.",
+    "url": "https://quillbot.com/",
+    "emoji": "🔄",
+    "tags": ["paraphrasing", "summarizer", "citation generator"],
+    "rating": 4.5,
+    "dateAdded": "2025-03-22",
+    "price": "Freemium"
+  },
+  {
+    "id": "sudowrite",
+    "name": "Sudowrite",
+    "category": "writing",
+    "description": "AI writing partner for fiction writers, helping with brainstorming, description, and more.",
+    "url": "https://www.sudowrite.com/",
+    "emoji": "🧙",
+    "tags": ["fiction writing", "storytelling", "creative writing"],
+    "rating": 4.6,
+    "dateAdded": "2025-05-18",
+    "price": "Paid"
+  },
+  {
+    "id": "wordtune",
+    "name": "Wordtune",
+    "category": "writing",
+    "description": "AI writing tool that helps you rephrase and rewrite sentences to improve clarity and tone.",
+    "url": "https://www.wordtune.com/",
+    "emoji": "🎶",
+    "tags": ["rewriting tool", "sentence rephraser", "ai editor"],
+    "rating": 4.4,
+    "dateAdded": "2025-02-28",
+    "price": "Freemium"
+  },
+  {
+    "id": "frase-io",
+    "name": "Frase.io",
+    "category": "writing",
+    "description": "AI tool for content research, creation, and optimization to rank on Google.",
+    "url": "https://www.frase.io/",
+    "emoji": "📈",
+    "tags": ["seo writing", "content optimization", "research tool"],
+    "rating": 4.3,
+    "dateAdded": "2025-04-22",
+    "price": "Paid"
+  },
+  {
+    "id": "contentedge",
+    "name": "ContentEdge (formerly MarketMuse)",
+    "category": "writing",
+    "description": "AI-powered content strategy and optimization platform for creating expert-level content.",
+    "url": "https://www.contentedge.com/",
+    "emoji": "👑",
+    "tags": ["content strategy", "topic research", "content brief"],
+    "rating": 4.2,
+    "dateAdded": "2025-06-08",
+    "price": "Paid"
+  }
+]

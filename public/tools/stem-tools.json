@@ -1,0 +1,122 @@
+[
+  {
+    "id": "wolframalpha-stem",
+    "name": "Wolfram Alpha for STEM",
+    "category": "stem",
+    "description": "Powerful computational intelligence for complex math, physics, chemistry, engineering problems.",
+    "url": "https://www.wolframalpha.com/",
+    "emoji": "🧪",
+    "tags": ["mathematics", "physics", "chemistry", "engineering", "data analysis"],
+    "rating": 4.9,
+    "dateAdded": "2025-06-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "symbolab",
+    "name": "Symbolab",
+    "category": "stem",
+    "description": "AI math solver providing step-by-step solutions for algebra, calculus, trigonometry and more.",
+    "url": "https://www.symbolab.com/",
+    "emoji": "➕",
+    "tags": ["math solver", "algebra", "calculus", "step-by-step solutions"],
+    "rating": 4.7,
+    "dateAdded": "2025-06-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "photomath",
+    "name": "Photomath",
+    "category": "stem",
+    "description": "Scan and solve math problems with step-by-step explanations using your phone camera.",
+    "url": "https://photomath.com/",
+    "emoji": "📸",
+    "tags": ["math solver", "camera calculator", "homework help", "arithmetic"],
+    "rating": 4.8,
+    "dateAdded": "2025-06-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "replit-edu",
+    "name": "Replit for Education",
+    "category": "stem",
+    "description": "Online IDE with AI features for learning and teaching coding in various languages.",
+    "url": "https://replit.com/teams/education",
+    "emoji": "💻",
+    "tags": ["coding", "programming", "python", "javascript", "online ide"],
+    "rating": 4.6,
+    "dateAdded": "2025-06-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "matlab",
+    "name": "MATLAB",
+    "category": "stem",
+    "description": "High-level language and interactive environment for numerical computation, visualization, and programming.",
+    "url": "https://www.mathworks.com/products/matlab.html",
+    "emoji": "📈",
+    "tags": ["numerical computing", "data analysis", "engineering", "simulation"],
+    "rating": 4.5,
+    "dateAdded": "2025-06-16",
+    "price": "Paid (Student License available)"
+  },
+  {
+    "id": "overleaf",
+    "name": "Overleaf",
+    "category": "stem",
+    "description": "Online collaborative LaTeX editor, essential for scientific and technical writing.",
+    "url": "https://www.overleaf.com/",
+    "emoji": "📄",
+    "tags": ["latex", "scientific writing", "research papers", "collaboration"],
+    "rating": 4.7,
+    "dateAdded": "2025-06-16",
+    "price": "Freemium"
+  },
+  {
+    "id": "geogebra",
+    "name": "GeoGebra",
+    "category": "stem",
+    "description": "Free dynamic mathematics software for all levels of education (graphing, geometry, algebra, calculus).",
+    "url": "https://www.geogebra.org/",
+    "emoji": "📐",
+    "tags": ["mathematics education", "graphing calculator", "geometry", "interactive learning"],
+    "rating": 4.6,
+    "dateAdded": "2025-06-16",
+    "price": "Free"
+  },
+  {
+    "id": "chemspider",
+    "name": "ChemSpider",
+    "category": "stem",
+    "description": "Free chemical structure database providing fast access to over 100 million structures.",
+    "url": "http://www.chemspider.com/",
+    "emoji": "⚗️",
+    "tags": ["chemistry", "chemical database", "structure search", "research"],
+    "rating": 4.4,
+    "dateAdded": "2025-06-16",
+    "price": "Free"
+  },
+  {
+    "id": "jupyter-notebook",
+    "name": "Jupyter Notebook",
+    "category": "stem",
+    "description": "Open-source web application for creating and sharing documents with live code, equations, visualizations.",
+    "url": "https://jupyter.org/",
+    "emoji": "📓",
+    "tags": ["data science", "python", "r", "interactive computing", "machine learning"],
+    "rating": 4.8,
+    "dateAdded": "2025-06-16",
+    "price": "Free"
+  },
+  {
+    "id": "tinkercad",
+    "name": "Tinkercad",
+    "category": "stem",
+    "description": "Free, easy-to-use app for 3D design, electronics, and coding. Great for beginners.",
+    "url": "https://www.tinkercad.com/",
+    "emoji": "⚙️",
+    "tags": ["3d design", "electronics", "coding", "stem education", "beginner friendly"],
+    "rating": 4.5,
+    "dateAdded": "2025-06-16",
+    "price": "Free"
+  }
+]
