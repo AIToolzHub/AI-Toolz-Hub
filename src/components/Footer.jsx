@@ -45,6 +45,14 @@ const Footer = () => {
               </Tooltip>
             ))}
           </div>
+          <div className="mb-4">
+  <a
+    href="/submit"
+    className="inline-block text-primary font-medium hover:underline hover:text-violet-500 transition-colors"
+  >
+    🚀 Suggest a Tool
+  </a>
+</div>
           <p className="text-base">&copy; {currentYear} AI Toolz Hub. All rights reserved.</p>
         </div>
       </TooltipProvider>
