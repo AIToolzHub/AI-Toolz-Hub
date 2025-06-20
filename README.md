@@ -54,29 +54,3 @@ Submissions are handled using [Formspree](https://formspree.io/) with:
 ✅ Custom success message  
 ✅ Live preview of input  
 ✅ Logo URL preview  
-
----
-
-## 📦 Installation (For Developers)
-
-```bash
-git clone https://github.com/YOUR_USERNAME/AI-Toolz-Hub.git
-cd AI-Toolz-Hub
-npm install
-npm run dev
-```
-
-> Make sure you have Node.js & Vite installed.
-
----
-
-## 📄 License
-
-MIT — free to use, modify, and share. Attribution appreciated!  
-Made with ❤️ by [@AIToolzHub](https://x.com/AIToolzHub)
-
----
-
-## 🤝 Contribute
-
-Pull requests welcome! If you have ideas for categories, UI polish, or feature enhancements, feel free to fork and suggest.
