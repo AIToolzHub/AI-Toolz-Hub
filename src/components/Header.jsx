@@ -54,6 +54,17 @@ const Header = () => {
                   <p>Your Favorite Tools</p>
                 </TooltipContent>
               </Tooltip>
+              <Tooltip>
+  <TooltipTrigger asChild>
+    <NavLink to="/submit" className={navLinkClasses}>
+      <span className="text-green-600 font-bold text-xl mr-1">＋</span>
+      <span className="hidden sm:inline">Suggest</span>
+    </NavLink>
+  </TooltipTrigger>
+  <TooltipContent>
+    <p>Submit a new AI tool</p>
+  </TooltipContent>
+</Tooltip>
             </nav>
              {canInstall && (
               <Tooltip>
