@@ -10,6 +10,7 @@ import ScrollToTop from '@/components/ScrollToTop.jsx';
 import { Loader2 } from 'lucide-react';
 
 const FavoritesPage = React.lazy(() => import('@/pages/FavoritesPage.jsx'));
+const SubmitPage = React.lazy(() => import('@/pages/SubmitPage.jsx'));
 
 const LoadingFallback = () => (
   <div className="flex items-center justify-center h-[calc(100vh-200px)]">
@@ -28,6 +29,7 @@ function App() {
               <Route path="/" element={<HomePage />} />
               <Route path="/favorites" element={<FavoritesPage />} />
               <Route path="/404" element={<NotFoundPage />} />
+              <Route path="/submit" element={<SubmitPage />} />
               <Route path="*" element={<Navigate to="/404" replace />} />
             </Routes>
           </Suspense>
