@@ -1,0 +1,82 @@
+# ⚡ AI Toolz Hub — Discover the Best Free AI Tools
+
+**Live Site:** [https://aitoolzhub.xyz](https://aitoolzhub.xyz)
+
+AI Toolz Hub is a sleek, mobile-first Progressive Web App (PWA) built to help users explore and submit 50+ categorized AI tools — from writing and design to voice, music, and more.
+
+---
+
+## 🚀 Features
+
+- 🔍 Smart search & instant filtering  
+- 📱 Fully responsive + installable as PWA  
+- 🌗 Dark/light theme toggle  
+- ⭐ Favorite tools (stored in localStorage)  
+- 📂 Categorized tool discovery  
+- 📤 User-submitted tools (via form)  
+- 🧑‍💻 Built with **React**, **Vite**, **TailwindCSS**, **Framer Motion**  
+- 📶 Offline support via Service Worker  
+- 🧾 SEO ready + Google AdSense integration  
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+├── components/       # Reusable UI elements (cards, layout, install prompt)
+├── contexts/         # Global state: theme, install PWA, tools
+├── data/             # Static tool data
+├── pages/            # Home, Favorites, Submit form, Not Found
+└── App.jsx           # Main routing setup
+```
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React + Vite  
+- 🎨 TailwindCSS (custom themes)  
+- 🎞️ Framer Motion for animations  
+- 🧠 Context API for global state  
+- ⚙️ Supabase (coming soon for tool storage)  
+- 📡 Hosted on Vercel  
+- 🌐 Domain via Hostinger  
+
+---
+
+## 📬 Suggest an AI Tool
+
+Users can suggest new AI tools via this page:  
+🔗 [https://aitoolzhub.xyz/submit](https://aitoolzhub.xyz/submit)
+
+Submissions are handled using [Formspree](https://formspree.io/) with:  
+✅ Custom success message  
+✅ Live preview of input  
+✅ Logo URL preview  
+
+---
+
+## 📦 Installation (For Developers)
+
+```bash
+git clone https://github.com/YOUR_USERNAME/AI-Toolz-Hub.git
+cd AI-Toolz-Hub
+npm install
+npm run dev
+```
+
+> Make sure you have Node.js & Vite installed.
+
+---
+
+## 📄 License
+
+MIT — free to use, modify, and share. Attribution appreciated!  
+Made with ❤️ by [@AIToolzHub](https://x.com/AIToolzHub)
+
+---
+
+## 🤝 Contribute
+
+Pull requests welcome! If you have ideas for categories, UI polish, or feature enhancements, feel free to fork and suggest.
