@@ -10,6 +10,7 @@ export const categories = [
   { id: 'productivity', name: 'Productivity & Automation' },
   { id: 'research', name: 'Research & Analysis' },
   { id: '3d', name: '3D Modeling & Design' },
+  { id: 'presentation', name: 'Presentation Tools' }
 ];
 
 export const aiTools = [
@@ -132,5 +133,65 @@ export const aiTools = [
     rating: 4.5,
     isFavorite: false,
     dateAdded: '2024-06-01',
+  }
+    {
+    id: 'gamma',
+    name: 'Gamma',
+    category: 'presentation',
+    description: 'AI-powered tool that creates presentations from prompts or docs.',
+    url: 'https://gamma.app/',
+    icon: '📊',
+    tags: ['presentation', 'slides', 'ai writing'],
+    rating: 4.7,
+    isFavorite: false,
+    dateAdded: '2025-06-21',
+  },
+  {
+    id: 'tome',
+    name: 'Tome',
+    category: 'presentation',
+    description: 'AI storytelling tool to generate sleek presentation decks from text.',
+    url: 'https://tome.app/',
+    icon: '📖',
+    tags: ['slides', 'pitch deck', 'storytelling'],
+    rating: 4.6,
+    isFavorite: false,
+    dateAdded: '2025-06-21',
+  },
+  {
+    id: 'beautiful-ai',
+    name: 'Beautiful.ai',
+    category: 'presentation',
+    description: 'Design stunning presentations easily with AI-assisted layouts.',
+    url: 'https://www.beautiful.ai/',
+    icon: '✨',
+    tags: ['presentation design', 'slides', 'ai templates'],
+    rating: 4.5,
+    isFavorite: false,
+    dateAdded: '2025-06-21',
+  },
+  {
+    id: 'slidesai',
+    name: 'SlidesAI',
+    category: 'presentation',
+    description: 'Generate Google Slides presentations from text with AI.',
+    url: 'https://www.slidesai.io/',
+    icon: '📑',
+    tags: ['google slides', 'presentation', 'automation'],
+    rating: 4.4,
+    isFavorite: false,
+    dateAdded: '2025-06-21',
+  },
+  {
+    id: 'simplified',
+    name: 'Simplified',
+    category: 'presentation',
+    description: 'All-in-one AI tool including a presentation maker and marketing assets.',
+    url: 'https://simplified.com/',
+    icon: '🧰',
+    tags: ['design', 'slides', 'marketing'],
+    rating: 4.3,
+    isFavorite: false,
+    dateAdded: '2025-06-21',
   }
 ];
