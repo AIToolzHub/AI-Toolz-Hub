@@ -1,0 +1,122 @@
+[
+  {
+    "id": "microsoft-copilot-powerpoint",
+    "name": "Microsoft Copilot for PowerPoint",
+    "category": "presentation",
+    "description": "Generates, organizes, and designs slides in PowerPoint using AI, based on your docs and prompts.",
+    "url": "https://www.microsoft.com/microsoft-365/copilot",
+    "emoji": "🤖",
+    "tags": ["powerpoint", "microsoft 365", "slide generation", "office ai"],
+    "rating": 4.8,
+    "dateAdded": "2025-06-21",
+    "price": "Microsoft 365 subscription"
+  },
+  {
+    "id": "google-gemini-slides",
+    "name": "Gemini for Google Slides",
+    "category": "presentation",
+    "description": "AI assistant that generates and enhances slides directly within Google Slides.",
+    "url": "https://workspace.google.com/",
+    "emoji": "🤝",
+    "tags": ["google slides", "multimodal ai", "workspace"],
+    "rating": 4.7,
+    "dateAdded": "2025-06-21",
+    "price": "Google Workspace subscription"
+  },
+  {
+    "id": "pitch",
+    "name": "Pitch",
+    "category": "presentation",
+    "description": "AI-powered presentation platform made for teams and sales decks with real-time collaboration.",
+    "url": "https://pitch.com/",
+    "emoji": "🚀",
+    "tags": ["team collaboration", "pitch decks", "sales", "ai templates"],
+    "rating": 4.6,
+    "dateAdded": "2025-06-21",
+    "price": "Freemium"
+  },
+  {
+    "id": "storyd",
+    "name": "STORYD",
+    "category": "presentation",
+    "description": "AI framework tool that builds structured presentations and storylines step-by-step.",
+    "url": "https://storyd.ai/",
+    "emoji": "📘",
+    "tags": ["storytelling", "structures", "framework"],
+    "rating": 4.2,
+    "dateAdded": "2025-06-21",
+    "price": "Free/Freemium"
+  },
+  {
+    "id": "genslides-plus",
+    "name": "Plus AI for PowerPoint / Slides",
+    "category": "presentation",
+    "description": "AI add-on for generating and rewriting slides, charts, and visuals inside PowerPoint and Google Slides.",
+    "url": "https://plusai.com/",
+    "emoji": "➕",
+    "tags": ["ppt generator", "gslides", "charts", "ai rewrite"],
+    "rating": 4.7,
+    "dateAdded": "2025-06-21",
+    "price": "Freemium"
+  },
+  {
+    "id": "magicslides",
+    "name": "MagicSlides",
+    "category": "presentation",
+    "description": "Create presentation slides from outline text with one-click AI integration.",
+    "url": "https://www.magicslides.app/",
+    "emoji": "🪄",
+    "tags": ["slide outline", "fast slides", "chrome extension"],
+    "rating": 4.3,
+    "dateAdded": "2025-06-21",
+    "price": "Freemium"
+  },
+  {
+    "id": "genppt",
+    "name": "GenPPT",
+    "category": "presentation",
+    "description": "Fastest AI PowerPoint generator—gets your deck ready in under a minute from a topic prompt.",
+    "url": "https://genppt.com/",
+    "emoji": "⚡",
+    "tags": ["speed", "ppt generator", "auto templates"],
+    "rating": 4.8,
+    "dateAdded": "2025-06-21",
+    "price": "Free tier + Paid"
+  },
+  {
+    "id": "slidesai",
+    "name": "SlidesAI",
+    "category": "presentation",
+    "description": "Google Slides add-on that transforms plain text into polished slide decks.",
+    "url": "https://www.slidesai.io/",
+    "emoji": "📜",
+    "tags": ["google slides", "text2slides", "ai plugin"],
+    "rating": 4.6,
+    "dateAdded": "2025-06-21",
+    "price": "Freemium"
+  },
+  {
+    "id": "canva-magic-design",
+    "name": "Canva Magic Design",
+    "category": "presentation",
+    "description": "One-click AI presentation generator within Canva, with templates and branding.",
+    "url": "https://www.canva.com/create/ai-presentations/",
+    "emoji": "🎨",
+    "tags": ["canva", "ai slides", "templates", "branding"],
+    "rating": 4.5,
+    "dateAdded": "2025-06-21",
+    "price": "Freemium"
+  },
+  {
+    "id": "piktochart-ai",
+    "name": "Piktochart AI Presentation Maker",
+    "category": "presentation",
+    "description": "AI tool focusing on presenting data and infographics as slides in seconds.",
+    "url": "https://piktochart.com/blog/best-ai-presentation-makers/",
+    "emoji": "📈",
+    "tags": ["infographics", "data slides", "chart slides"],
+    "rating": 4.4,
+    "dateAdded": "2025-06-21",
+    "price": "Freemium"
+  }
+]
