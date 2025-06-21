@@ -34,10 +34,5 @@ AI Toolz Hub is a sleek, mobile-first Progressive Web App (PWA) built to help us
 
 ## 📬 Suggest an AI Tool
 
-Users can suggest new AI tools via this page:  
+You can suggest new AI tools via this page:  
 🔗 [https://aitoolzhub.xyz/submit](https://aitoolzhub.xyz/submit)
-
-Submissions are handled using [Formspree](https://formspree.io/) with:  
-✅ Custom success message  
-✅ Live preview of input  
-✅ Logo URL preview  
