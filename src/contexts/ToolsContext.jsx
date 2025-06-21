@@ -8,7 +8,7 @@ export const useTools = () => useContext(ToolsContext);
 const initialCategories = [
   { id: 'all', name: 'All Categories', path: null },
   { id: 'chat', name: 'Chat & Assistants', path: 'chat-tools.json' },
-  { id: 'presentation', name: 'Presentation Tools' }
+  { id: 'presentation', name: 'Presentation Tools', path: 'presentation-tools.json' },
   { id: 'image', name: 'Image Generation & Editing', path: 'image-tools.json' },
   { id: 'video', name: 'Video Generation & Editing', path: 'video-tools.json' },
   { id: 'code', name: 'Code & Development', path: 'code-tools.json' },
