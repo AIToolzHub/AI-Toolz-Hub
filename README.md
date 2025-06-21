@@ -20,19 +20,6 @@ AI Toolz Hub is a sleek, mobile-first Progressive Web App (PWA) built to help us
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
-├── components/       # Reusable UI elements (cards, layout, install prompt)
-├── contexts/         # Global state: theme, install PWA, tools
-├── data/             # Static tool data
-├── pages/            # Home, Favorites, Submit form, Not Found
-└── App.jsx           # Main routing setup
-```
-
----
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React + Vite  
